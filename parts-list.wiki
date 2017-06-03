@@ -1,0 +1,18 @@
+
+= Parts list for register module =
+
+
+| Part name                | Count | Unit Price | Total price |
+|--------------------------|-------|------------|-------------|
+| LED (Yellow)             | 8     | $0.20      | $1.60       |
+| Pin Headers, 1x8 strip   | 2     | $0.80      | $1.60       |
+| 16 pin IC socket         | 2     | $0.18      | $0.36       |
+| 20 pin IC socket         | 1     | $0.24      | $0.24       |
+| 74LS173 (4-bit register) | 2     | $1.35      | $2.70       |
+| 74LS245 (bus tranciever) | 1     | $0.87      | $0.87       |
+|                          |       |            |             |
+
+Total:  $7.37
+
+
+1.6 + 1.6 + 0.36 + 0.24 + 2.7 + 0.87
